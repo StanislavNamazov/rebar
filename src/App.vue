@@ -11,7 +11,7 @@
             <h1>О РЕБАР</h1>
             <p>Я сделал этот конфигуратор в качестве примера для демонстрации своих навыков. При разработке сайта использовались Vite, Vue и Three.js, 3D модели сделаны в Blender.</p>
             <!--p>Подробнее об этом проекте читайте по ссылке <a href="https://namazov.online">namazov.online/projects/rebar</a>. Другие работы смотрите на сайте <a href="https://namazov.online">namazov.online</a>.</p-->
-            <p>Хотите создать что-то классное? Свяжитесь со мной в телеграме <a href="/">@stanislav_n</a> или пишите на почту <a href="mailto:stanislav.namazov@gmail.com">stanislav.namazov@gmail.com</a></p>
+            <p>Хотите создать что-то классное? Свяжитесь со мной в телеграме <a href="https://t.me/StanislavNamazov">@StanislavNamazov</a> или пишите на почту <a href="mailto:stanislav.namazov@gmail.com">stanislav.namazov@gmail.com</a></p>
         </div>
     </div>
     
